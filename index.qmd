@@ -1,0 +1,31 @@
+---
+title: "Marc Andrew Choi"
+image: headshot.jpg
+about: 
+  template: trestles
+  image-shape: rounded
+  image-width: 15em
+  links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/marc-andrew-choi/
+    - text: GitHub
+      href: https://github.com/marcandrew-choi
+    - text: Email
+      href: mailto:inhyak@ucla.edu
+    - text: CV
+      href: marc-andrew-chois-website/files/cv.pdf
+---
+
+## Biography
+
+I am a fourth year undergraduate student at UCLA studying mathematics with a Specialization in Computing. My research topics are applications to Nonlinear Systems of Ordinary and Partial Differential Equations (preferably in mathematical biology and social sciences). After graduation, I plan on getting my PhD in Applied and Interdisciplinary Mathematics at the University of Michigan. On my free time, I enjoy keeping up with the NBA, cooking food and playing piano. Feel free to reach me at inhyak \[at\] ucla \[dot\] edu
+
+## Education
+
+**PhD in Applied and Interdisciplinary Mathematics** (2023-2028) | University of Michigan | Ann Arbor, Michigan
+
+**BS in Mathematics with Specialization in Computing** (2019-2023) | University of California, Los Angeles | Los Angeles, California
+
+**AA in Mathematics** (2017-2018) | Moorpark College | Moorpark, California
+
+**AA in Sociology** (2018) | Moorpark College | Moorpark, California

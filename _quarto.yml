@@ -1,0 +1,29 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Marc Andrew Choi"
+  navbar:
+    background: primary
+    left:
+      - href: index.qmd
+        text: home
+      - href: advice.qmd
+        text: advice
+      - href: files/cv.pdf
+        text: cv
+      - href: files/teaching_statement.pdf
+        text: teaching statement
+
+format:
+  html:
+    theme: zephyr
+    css: styles.css
+    toc: true
+
+editor: visual
+
+
+
+
